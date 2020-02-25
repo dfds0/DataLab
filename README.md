@@ -6,10 +6,11 @@
 - kaggle_titanic.ipynb
 
 ## Experiments
-
+- app_flask_joblib.py
 - cloud_mongodb.py
 - cloud_mongodb_folium.ipynb
 - cloud_mongodb_profiling.ipynb
+- cloud_mongodb_tfid_joblib.ipynb
 
 ## exercises
 
