@@ -10,6 +10,7 @@
 - cloud_mongodb_folium.ipynb
 - cloud_mongodb_profiling.ipynb
 - cloud_mongodb_tfidf_joblib.ipynb
+- cloud_mongodb_tfidf_kmeans.ipynb
 
 ## Exercises
 
