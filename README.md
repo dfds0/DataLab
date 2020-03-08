@@ -9,7 +9,7 @@
 - cloud_mongodb.py
 - cloud_mongodb_folium.ipynb
 - cloud_mongodb_profiling.ipynb
-- cloud_mongodb_tfid_joblib.ipynb
+- cloud_mongodb_tfidf_joblib.ipynb
 
 ## Exercises
 
