@@ -8,9 +8,10 @@
 ## Experiments
 - cloud_mongodb.py
 - cloud_mongodb_folium.ipynb
+- cloud_mongodb_nltk_tfid_lr.ipynb
 - cloud_mongodb_profiling.ipynb
 - cloud_mongodb_tfidf_joblib.ipynb
-- cloud_mongodb_tfidf_kmeans.ipynb
+- cloud_mongodb_vectorizer_kmeans.ipynb
 - open_data_matplotlib_seaborn_plotly.ipynb
 
 ## Exercises
