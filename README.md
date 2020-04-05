@@ -21,5 +21,4 @@
 - coursera - michigan - data science/course 1 - assignment 4.ipynb
 - coursera - michigan - data science/course 2 - assignment 2.ipynb
 - coursera - michigan - data science/course 2 - assignment 3.ipynb
-- 365datascience/time_series_analysis_1.ipynb
-- 365datascience/time_series_analysis_2.ipynb
+- 365datascience/time_series_analysis.ipynb
