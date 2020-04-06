@@ -2,8 +2,8 @@
 
 
 ## Competitions
-
-- kaggle_titanic.ipynb
+- kaggle/titanic.ipynb
+- analyticsvidhya/loan_prediction.ipynb
 
 ## Experiments
 - cloud_mongodb.py
