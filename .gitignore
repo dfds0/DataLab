@@ -14,3 +14,9 @@ experiments/_mining/.ipynb_checkpoints/
 experiments/_lead/.ipynb_checkpoints/
 
 experiments/_finances/stock_dfs/
+
+experiments/_finances/.ipynb_checkpoints/
+
+*.csv
+
+*.pickle
