@@ -20,3 +20,7 @@ experiments/_finances/.ipynb_checkpoints/
 *.csv
 
 *.pickle
+
+*.model
+
+experiments/_datahackers/.ipynb_checkpoints/
